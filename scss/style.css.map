@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style.scss",
+        "commons/_var.scss",
+        "commons/_mixins.scss",
+        "commons/_base.scss",
+        "layouts/_header.scss",
+        "pages/_home.scss",
+        "pages/_login.scss",
+        "pages/_signUp.scss",
+        "layouts/_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

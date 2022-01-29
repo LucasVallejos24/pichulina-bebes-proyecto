@@ -1,0 +1,11 @@
+@import "commons/var";
+@import "commons/mixins";
+@import "commons/base";
+
+@import "layouts/header";
+
+@import "pages/home";
+@import "pages/login";
+@import "pages/signUp";
+
+@import "layouts/footer";
